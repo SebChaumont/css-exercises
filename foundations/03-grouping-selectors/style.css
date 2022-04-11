@@ -1,0 +1,15 @@
+.Positive,
+.Negative {
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+  font-size: 28px;
+}
+
+.Positive {
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+}
+
+.Negative {
+  background-color: rgb(255, 255, 0);
+  color: rgb(0, 0, 0);
+}
